@@ -20,7 +20,7 @@ cp -r /etc/systemd/system $second/$iter
 cp -r /etc/systemd/system $third/$iter
 cp -r /etc/systemd/system $fourth/$iter
 
-cp -r /var/lib/etechacademy $first/$iter
-cp -r /var/lib/etechacademy $second/$iter
-cp -r /var/lib/etechacademy $third/$iter
-cp -r /var/lib/etechacademy $fourth/$iter
+cp -r /var/lib/the-music-store $first/$iter
+cp -r /var/lib/the-music-store $second/$iter
+cp -r /var/lib/the-music-store $third/$iter
+cp -r /var/lib/the-music-store $fourth/$iter
